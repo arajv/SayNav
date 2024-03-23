@@ -1,0 +1,2112 @@
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 11
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 36.0
+  shortest_path_targets_order: Faucet, CellPhone, Bowl
+  start_heading: 270
+  start_position: 8.0, 2.5
+  targets:
+  - gt_pos: 11.437147842073903, 0.14201733350753776
+    name: Faucet
+  - gt_pos: 4.347365856170654, 7.828928470611572
+    name: CellPhone
+  - gt_pos: 9.470317840576172, 9.891307830810547
+    name: Bowl
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 78
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 35.0
+  shortest_path_targets_order: Spoon, Pillow, Television
+  start_heading: 0
+  start_position: 2.0, 8.5
+  targets:
+  - gt_pos: 7.589138136863708, 0.6260050773620602
+    name: Television
+  - gt_pos: 4.550328254699707, 6.88497257232666
+    name: Spoon
+  - gt_pos: 11.303680733203887, 7.593861394882202
+    name: Pillow
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 123
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 16.5
+  shortest_path_targets_order: CoffeeMachine, SoapBottle, SaltShaker
+  start_heading: 0
+  start_position: 7.75, 0.25
+  targets:
+  - gt_pos: 3.1613545417785645, 3.8352084159851074
+    name: CoffeeMachine
+  - gt_pos: 2.3129072189331055, 0.2520400285720825
+    name: SoapBottle
+  - gt_pos: 0.40651822090148926, 0.09781217575073242
+    name: SaltShaker
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 192
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 34.75
+  shortest_path_targets_order: TissueBox, Lettuce, Apple
+  start_heading: 180
+  start_position: 3.25, 1.0
+  targets:
+  - gt_pos: 5.271703720092773, 12.098416328430176
+    name: TissueBox
+  - gt_pos: 11.54564380645752, 0.0978122353553772
+    name: Apple
+  - gt_pos: 12.611743927001953, 1.5440945625305176
+    name: Lettuce
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 211
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 28.75
+  shortest_path_targets_order: SoapBottle, Bowl, ToiletPaper
+  start_heading: 270
+  start_position: 2.5, 5.5
+  targets:
+  - gt_pos: 9.285649299621582, 0.13205879926681519
+    name: ToiletPaper
+  - gt_pos: 7.526275634765625, 9.633188247680664
+    name: SoapBottle
+  - gt_pos: 3.7364282608032227, 6.790355682373047
+    name: Bowl
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 326
+  num_rooms: 6
+  num_targets: 3
+  shortest_path_length: 27.5
+  shortest_path_targets_order: Bowl, PepperShaker, Toaster
+  start_heading: 270
+  start_position: 2.25, 10.75
+  targets:
+  - gt_pos: 10.615707397460938, 0.2745828628540039
+    name: Toaster
+  - gt_pos: 10.15820598602295, 0.40915513038635254
+    name: PepperShaker
+  - gt_pos: 11.465112686157227, 4.347508430480957
+    name: Bowl
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 344
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 28.5
+  shortest_path_targets_order: AlarmClock, Mug, PaperTowelRoll
+  start_heading: 180
+  start_position: 3.0, 7.25
+  targets:
+  - gt_pos: 0.28526753187179565, 3.432297706604004
+    name: AlarmClock
+  - gt_pos: 8.484833717346191, 7.023633003234863
+    name: PaperTowelRoll
+  - gt_pos: 7.641101837158203, 8.024837493896484
+    name: Mug
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 528
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 17.0
+  shortest_path_targets_order: DishSponge, Pan, CD
+  start_heading: 270
+  start_position: 1.75, 6.5
+  targets:
+  - gt_pos: 5.344074249267578, 1.1690727472305298
+    name: DishSponge
+  - gt_pos: 6.2195844650268555, 6.630340576171875
+    name: CD
+  - gt_pos: 5.344074249267578, 1.4697020053863525
+    name: Pan
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 584
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 28.25
+  shortest_path_targets_order: CD, Newspaper, Bottle
+  start_heading: 90
+  start_position: 6.25, 8.75
+  targets:
+  - gt_pos: 3.0820698738098145, 10.889790534973145
+    name: Newspaper
+  - gt_pos: 0.19294869899749756, 5.6487884521484375
+    name: CD
+  - gt_pos: 7.870602607727051, 10.160568237304688
+    name: Bottle
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 598
+  num_rooms: 10
+  num_targets: 3
+  shortest_path_length: 40.25
+  shortest_path_targets_order: WineBottle, SoapBottle, Pen
+  start_heading: 270
+  start_position: 14.25, 2.5
+  targets:
+  - gt_pos: 11.266496658325195, 8.655145645141602
+    name: WineBottle
+  - gt_pos: 11.797494888305664, 8.587761878967285
+    name: SoapBottle
+  - gt_pos: 2.1641664505004883, 6.562193870544434
+    name: Pen
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 654
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 9.5
+  shortest_path_targets_order: Potato, Toaster, Statue
+  start_heading: 180
+  start_position: 2.25, 1.0
+  targets:
+  - gt_pos: 2.9855539798736572, 0.7848262786865234
+    name: Potato
+  - gt_pos: 3.2160720825195312, 0.8043748140335083
+    name: Toaster
+  - gt_pos: 7.749438285827637, 4.376302242279053
+    name: Statue
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 714
+  num_rooms: 10
+  num_targets: 3
+  shortest_path_length: 34.75
+  shortest_path_targets_order: Apple, Pan, PaperTowelRoll
+  start_heading: 90
+  start_position: 3.75, 9.25
+  targets:
+  - gt_pos: 17.73397445678711, 3.6928329467773438
+    name: PaperTowelRoll
+  - gt_pos: 5.7540740966796875, 14.158235549926758
+    name: Pan
+  - gt_pos: 5.827596187591553, 13.925296783447266
+    name: Apple
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 756
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 10.25
+  shortest_path_targets_order: Bowl, CreditCard, Pen
+  start_heading: 90
+  start_position: 4.75, 5.0
+  targets:
+  - gt_pos: 3.0287156105041504, 3.023460626602173
+    name: Pen
+  - gt_pos: 3.1430020332336426, 2.5607051849365234
+    name: CreditCard
+  - gt_pos: 5.958837985992432, 0.49142777919769287
+    name: Bowl
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 784
+  num_rooms: 7
+  num_targets: 3
+  shortest_path_length: 40.25
+  shortest_path_targets_order: PaperTowelRoll, TennisRacket, ToiletPaper
+  start_heading: 180
+  start_position: 1.75, 12.0
+  targets:
+  - gt_pos: 13.623716354370117, 12.816744804382324
+    name: TennisRacket
+  - gt_pos: 0.17340466380119324, 12.142976760864258
+    name: PaperTowelRoll
+  - gt_pos: 0.21313464641571045, 1.9353513717651367
+    name: ToiletPaper
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 865
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 21.75
+  shortest_path_targets_order: AlarmClock, Potato, Spatula
+  start_heading: 0
+  start_position: 0.25, 5.75
+  targets:
+  - gt_pos: 1.9328231811523438, 13.73305606842041
+    name: Potato
+  - gt_pos: 6.060423851013184, 5.798323631286621
+    name: AlarmClock
+  - gt_pos: 0.7877473831176758, 13.816115379333496
+    name: Spatula
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 921
+  num_rooms: 7
+  num_targets: 3
+  shortest_path_length: 35.5
+  shortest_path_targets_order: PepperShaker, ToiletPaper, Faucet
+  start_heading: 270
+  start_position: 11.0, 2.75
+  targets:
+  - gt_pos: 5.841238975524902, 7.8257856369018555
+    name: PepperShaker
+  - gt_pos: 7.6973246874809265, 5.501504002571107
+    name: Faucet
+  - gt_pos: 7.3626484870910645, 2.174434185028076
+    name: ToiletPaper
+- data_type: val
+  house_dataset: procthor-10k
+  house_idx: 986
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 17.25
+  shortest_path_targets_order: SoapBottle, KeyChain, CreditCard
+  start_heading: 180
+  start_position: 1.0, 8.0
+  targets:
+  - gt_pos: 2.2980384826660156, 2.4170310497283936
+    name: KeyChain
+  - gt_pos: 7.295877456665039, 0.4879985451698303
+    name: CreditCard
+  - gt_pos: 2.31020450592041, 9.74318790435791
+    name: SoapBottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 28
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 21.5
+  shortest_path_targets_order: Faucet, TeddyBear, PepperShaker
+  start_heading: 90
+  start_position: 1.75, 10.0
+  targets:
+  - gt_pos: 0.10605525970458984, 3.7636678218841553
+    name: PepperShaker
+  - gt_pos: 2.389378282958233, 7.481388969063759
+    name: Faucet
+  - gt_pos: 8.382822036743164, 8.721565246582031
+    name: TeddyBear
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 51
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 29.25
+  shortest_path_targets_order: Faucet, Vase, Candle
+  start_heading: 270
+  start_position: 5.25, 10.25
+  targets:
+  - gt_pos: 7.9499616622924805, 11.653863906860352
+    name: Vase
+  - gt_pos: 3.948020043373108, 8.83738896906376
+    name: Faucet
+  - gt_pos: 12.444199562072754, 8.510257720947266
+    name: Candle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 60
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 6.5
+  shortest_path_targets_order: Pillow, AlarmClock, Vase
+  start_heading: 270
+  start_position: 9.75, 8.75
+  targets:
+  - gt_pos: 10.81871223449707, 7.525608062744141
+    name: Vase
+  - gt_pos: 12.446479797363281, 9.391024589538574
+    name: Pillow
+  - gt_pos: 10.368316650390625, 8.235601425170898
+    name: AlarmClock
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 65
+  num_rooms: 7
+  num_targets: 3
+  shortest_path_length: 30.5
+  shortest_path_targets_order: SoapBottle, AlarmClock, TissueBox
+  start_heading: 270
+  start_position: 11.25, 2.0
+  targets:
+  - gt_pos: 4.526533603668213, 2.0006887912750244
+    name: SoapBottle
+  - gt_pos: 3.6220250129699707, 8.900506019592285
+    name: AlarmClock
+  - gt_pos: 2.1116766929626465, 13.563194274902344
+    name: TissueBox
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 74
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 25.5
+  shortest_path_targets_order: Candle, Box, Book
+  start_heading: 90
+  start_position: 4.0, 8.25
+  targets:
+  - gt_pos: 0.1327587366104126, 9.654146194458008
+    name: Candle
+  - gt_pos: 8.950559616088867, 9.323989868164062
+    name: Box
+  - gt_pos: 9.221146583557129, 9.33266830444336
+    name: Book
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 83
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 40.25
+  shortest_path_targets_order: Faucet, ToiletPaper, PaperTowelRoll
+  start_heading: 270
+  start_position: 4.25, 6.75
+  targets:
+  - gt_pos: 8.173020043373107, 10.120611030936242
+    name: Faucet
+  - gt_pos: 6.428149223327637, 5.297850608825684
+    name: ToiletPaper
+  - gt_pos: 9.138955116271973, 9.342584609985352
+    name: PaperTowelRoll
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 104
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 16.0
+  shortest_path_targets_order: PepperShaker, RemoteControl, Mug
+  start_heading: 90
+  start_position: 1.0, 5.25
+  targets:
+  - gt_pos: 0.3291541635990143, 4.878094673156738
+    name: PepperShaker
+  - gt_pos: 6.041844844818115, 0.45501017570495605
+    name: Mug
+  - gt_pos: 8.603259086608887, 4.312631607055664
+    name: RemoteControl
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 113
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 18.5
+  shortest_path_targets_order: SprayBottle, Faucet, Kettle
+  start_heading: 0
+  start_position: 10.0, 0.75
+  targets:
+  - gt_pos: 0.1829398274421692, 5.893181800842285
+    name: Kettle
+  - gt_pos: 10.277286529541016, 0.2930268943309784
+    name: SprayBottle
+  - gt_pos: 8.295020043373107, 3.309784106612206
+    name: Faucet
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 120
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 15.5
+  shortest_path_targets_order: Book, Pillow, Fork
+  start_heading: 90
+  start_position: 3.5, 4.75
+  targets:
+  - gt_pos: 3.521411418914795, 7.94519567489624
+    name: Book
+  - gt_pos: 3.8817036151885986, 0.8401291370391846
+    name: Fork
+  - gt_pos: 6.143301486968994, 6.907865524291992
+    name: Pillow
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 128
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 38.75
+  shortest_path_targets_order: Faucet, SoapBar, TeddyBear
+  start_heading: 90
+  start_position: 3.5, 8.0
+  targets:
+  - gt_pos: 8.79934310913086, 1.7342184782028198
+    name: TeddyBear
+  - gt_pos: 8.30238896906376, 6.500979956626892
+    name: Faucet
+  - gt_pos: 7.016327381134033, 12.04254150390625
+    name: SoapBar
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 147
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 22.5
+  shortest_path_targets_order: Bread, Potato, CellPhone
+  start_heading: 180
+  start_position: 10.0, 0.75
+  targets:
+  - gt_pos: 13.460229873657227, 4.899937629699707
+    name: Bread
+  - gt_pos: 1.0891225337982178, 7.403199195861816
+    name: CellPhone
+  - gt_pos: 13.375452995300293, 6.428683280944824
+    name: Potato
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 170
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 21.5
+  shortest_path_targets_order: AlarmClock, Laptop, Microwave
+  start_heading: 270
+  start_position: 1.0, 4.75
+  targets:
+  - gt_pos: 2.160261631011963, 10.44912052154541
+    name: AlarmClock
+  - gt_pos: 2.4763169288635254, 9.895050048828125
+    name: Laptop
+  - gt_pos: 4.7151923179626465, 0.25193437933921814
+    name: Microwave
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 172
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 22.75
+  shortest_path_targets_order: RemoteControl, TissueBox, AlarmClock
+  start_heading: 0
+  start_position: 5.5, 13.25
+  targets:
+  - gt_pos: 1.3481600284576416, 4.127560138702393
+    name: TissueBox
+  - gt_pos: 1.166790246963501, 7.349215984344482
+    name: AlarmClock
+  - gt_pos: 8.176695823669434, 5.7002787590026855
+    name: RemoteControl
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 173
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 31.75
+  shortest_path_targets_order: Pillow, BaseballBat, PaperTowelRoll
+  start_heading: 90
+  start_position: 8.75, 7.75
+  targets:
+  - gt_pos: 2.1963095664978027, 1.4848995208740234
+    name: Pillow
+  - gt_pos: 9.434557914733887, 5.975627422332764
+    name: PaperTowelRoll
+  - gt_pos: 5.913325786590576, 0.91623854637146
+    name: BaseballBat
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 174
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 23.5
+  shortest_path_targets_order: Plate, DeskLamp, Mug
+  start_heading: 180
+  start_position: 10.0, 2.25
+  targets:
+  - gt_pos: 3.7927935123443604, 12.64112663269043
+    name: DeskLamp
+  - gt_pos: 3.6850826740264893, 10.830011367797852
+    name: Mug
+  - gt_pos: 6.833041191101074, 4.915264129638672
+    name: Plate
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 177
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 17.75
+  shortest_path_targets_order: Tomato, Toaster, ToiletPaper
+  start_heading: 180
+  start_position: 9.25, 11.0
+  targets:
+  - gt_pos: 8.475770950317383, 11.925582885742188
+    name: Toaster
+  - gt_pos: 8.79568862915039, 12.004136085510254
+    name: Tomato
+  - gt_pos: 3.901648998260498, 0.18634283542633057
+    name: ToiletPaper
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 179
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 5.75
+  shortest_path_targets_order: Fork, Pan, WineBottle
+  start_heading: 180
+  start_position: 3.75, 8.5
+  targets:
+  - gt_pos: 4.623672962188721, 6.9544453620910645
+    name: Fork
+  - gt_pos: 4.468379974365234, 6.995909690856934
+    name: Pan
+  - gt_pos: 4.546027183532715, 8.458757400512695
+    name: WineBottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 183
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 13.75
+  shortest_path_targets_order: Statue, RemoteControl, CellPhone
+  start_heading: 90
+  start_position: 11.25, 7.25
+  targets:
+  - gt_pos: 6.418776035308838, 2.673367977142334
+    name: CellPhone
+  - gt_pos: 6.092462539672852, 7.107814311981201
+    name: RemoteControl
+  - gt_pos: 6.09246301651001, 7.235797882080078
+    name: Statue
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 194
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 25.75
+  shortest_path_targets_order: BaseballBat, KeyChain, BasketBall
+  start_heading: 90
+  start_position: 10.0, 7.0
+  targets:
+  - gt_pos: 1.5073297023773193, 5.356833457946777
+    name: BasketBall
+  - gt_pos: 3.1183204650878906, 5.291060447692871
+    name: KeyChain
+  - gt_pos: 10.420829772949219, 5.960291862487793
+    name: BaseballBat
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 206
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 36.75
+  shortest_path_targets_order: Laptop, KeyChain, Newspaper
+  start_heading: 180
+  start_position: 7.25, 6.25
+  targets:
+  - gt_pos: 9.091821670532227, 0.6320310831069946
+    name: Laptop
+  - gt_pos: 4.099006175994873, 8.357385635375977
+    name: Newspaper
+  - gt_pos: 12.731743812561035, 2.385547161102295
+    name: KeyChain
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 211
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 16.75
+  shortest_path_targets_order: TennisRacket, Faucet, ToiletPaper
+  start_heading: 90
+  start_position: 0.75, 5.25
+  targets:
+  - gt_pos: 5.456866264343262, 11.04214859008789
+    name: ToiletPaper
+  - gt_pos: 5.504784106612205, 9.23212719037819
+    name: Faucet
+  - gt_pos: 1.4830567836761475, 1.0893150568008423
+    name: TennisRacket
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 213
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 25.0
+  shortest_path_targets_order: SprayBottle, KeyChain, CellPhone
+  start_heading: 180
+  start_position: 6.75, 5.25
+  targets:
+  - gt_pos: 9.054564476013184, 2.59006929397583
+    name: SprayBottle
+  - gt_pos: 0.18836215138435364, 4.668160438537598
+    name: CellPhone
+  - gt_pos: 8.753988265991211, 4.755566120147705
+    name: KeyChain
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 214
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 22.0
+  shortest_path_targets_order: Plate, Statue, SprayBottle
+  start_heading: 270
+  start_position: 4.75, 3.5
+  targets:
+  - gt_pos: 1.8738629817962646, 11.616842269897461
+    name: Plate
+  - gt_pos: 1.0685254335403442, 11.900264739990234
+    name: Statue
+  - gt_pos: 4.043241024017334, 4.408243656158447
+    name: SprayBottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 219
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 14.0
+  shortest_path_targets_order: Faucet, Lettuce, SaltShaker
+  start_heading: 180
+  start_position: 7.25, 6.0
+  targets:
+  - gt_pos: 0.9755419492721558, 11.761029243469238
+    name: SaltShaker
+  - gt_pos: 1.358317255973816, 12.065275192260742
+    name: Lettuce
+  - gt_pos: 1.064423680951034, 5.406388969063758
+    name: Faucet
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 234
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 31.75
+  shortest_path_targets_order: Pillow, Mug, PaperTowelRoll
+  start_heading: 0
+  start_position: 11.25, 4.0
+  targets:
+  - gt_pos: 2.0491490364074707, 7.071593284606934
+    name: Mug
+  - gt_pos: 2.971386432647705, 0.6396651268005371
+    name: Pillow
+  - gt_pos: 0.9360049962997437, 10.586427688598633
+    name: PaperTowelRoll
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 251
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 16.5
+  shortest_path_targets_order: Statue, CellPhone, Pillow
+  start_heading: 90
+  start_position: 6.75, 3.75
+  targets:
+  - gt_pos: 0.5369995832443237, 4.292062759399414
+    name: CellPhone
+  - gt_pos: 7.096302032470703, 5.870781421661377
+    name: Statue
+  - gt_pos: 0.32424768805503845, 3.81925630569458
+    name: Pillow
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 263
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 15.75
+  shortest_path_targets_order: TissueBox, Mug, Bowl
+  start_heading: 0
+  start_position: 2.75, 5.75
+  targets:
+  - gt_pos: 0.30017465353012085, 8.909706115722656
+    name: TissueBox
+  - gt_pos: 0.36767661571502686, 5.741884708404541
+    name: Mug
+  - gt_pos: 7.375921726226807, 6.077093124389648
+    name: Bowl
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 268
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 20.5
+  shortest_path_targets_order: Tomato, CD, ToiletPaper
+  start_heading: 90
+  start_position: 0.5, 2.25
+  targets:
+  - gt_pos: 4.711012840270996, 6.648751258850098
+    name: CD
+  - gt_pos: 8.396540641784668, 9.80252742767334
+    name: ToiletPaper
+  - gt_pos: 0.17992836236953735, 6.448535442352295
+    name: Tomato
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 276
+  num_rooms: 6
+  num_targets: 3
+  shortest_path_length: 10.0
+  shortest_path_targets_order: Spoon, Ladle, CD
+  start_heading: 270
+  start_position: 7.25, 2.5
+  targets:
+  - gt_pos: 8.104021072387695, 0.4734441041946411
+    name: Spoon
+  - gt_pos: 8.25625991821289, 0.423420250415802
+    name: Ladle
+  - gt_pos: 5.338490962982178, 4.128852844238281
+    name: CD
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 288
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 15.5
+  shortest_path_targets_order: HousePlant, Bowl, SoapBottle
+  start_heading: 270
+  start_position: 1.0, 4.0
+  targets:
+  - gt_pos: 5.8253092765808105, 7.499569892883301
+    name: Bowl
+  - gt_pos: 9.795827865600586, 6.142010688781738
+    name: SoapBottle
+  - gt_pos: 0.306397020816803, 4.186327934265137
+    name: HousePlant
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 299
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 27.5
+  shortest_path_targets_order: Bottle, ToiletPaper, Faucet
+  start_heading: 270
+  start_position: 8.0, 7.25
+  targets:
+  - gt_pos: 0.1553133726119995, 10.511273384094238
+    name: ToiletPaper
+  - gt_pos: 12.333267211914062, 8.015249252319336
+    name: Bottle
+  - gt_pos: 6.282784106612206, 10.355020043373107
+    name: Faucet
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 308
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 4.5
+  shortest_path_targets_order: Pillow, Laptop, Pen
+  start_heading: 90
+  start_position: 4.0, 6.5
+  targets:
+  - gt_pos: 5.557182788848877, 8.104093551635742
+    name: Pen
+  - gt_pos: 6.838179588317871, 5.825173854827881
+    name: Pillow
+  - gt_pos: 5.975978374481201, 6.185756683349609
+    name: Laptop
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 318
+  num_rooms: 6
+  num_targets: 3
+  shortest_path_length: 33.0
+  shortest_path_targets_order: Bowl, Toaster, Bottle
+  start_heading: 90
+  start_position: 1.75, 7.0
+  targets:
+  - gt_pos: 13.571077346801758, 3.302673816680908
+    name: Bottle
+  - gt_pos: 15.721526145935059, 13.714485168457031
+    name: Bowl
+  - gt_pos: 12.54493236541748, 5.437755584716797
+    name: Toaster
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 328
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 16.25
+  shortest_path_targets_order: CD, PaperTowelRoll, Candle
+  start_heading: 0
+  start_position: 5.25, 9.25
+  targets:
+  - gt_pos: 6.644301891326904, 3.467000961303711
+    name: Candle
+  - gt_pos: 0.27174079418182373, 9.000799179077148
+    name: CD
+  - gt_pos: 2.3811044692993164, 4.278618812561035
+    name: PaperTowelRoll
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 330
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 41.0
+  shortest_path_targets_order: Spoon, Faucet, AlarmClock
+  start_heading: 0
+  start_position: 7.75, 8.5
+  targets:
+  - gt_pos: 13.352020043373107, 0.1652158933877944
+    name: Faucet
+  - gt_pos: 6.265567302703857, 7.260433673858643
+    name: Spoon
+  - gt_pos: 13.14415168762207, 7.579743385314941
+    name: AlarmClock
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 334
+  num_rooms: 10
+  num_targets: 3
+  shortest_path_length: 6.5
+  shortest_path_targets_order: SaltShaker, Cup, Pot
+  start_heading: 0
+  start_position: 4.5, 17.0
+  targets:
+  - gt_pos: 0.1060553789138794, 17.19367790222168
+    name: SaltShaker
+  - gt_pos: 0.2566884756088257, 16.964801788330078
+    name: Pot
+  - gt_pos: 0.33344966173171997, 17.19367790222168
+    name: Cup
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 336
+  num_rooms: 6
+  num_targets: 3
+  shortest_path_length: 13.5
+  shortest_path_targets_order: Spoon, Newspaper, Box
+  start_heading: 270
+  start_position: 2.0, 8.5
+  targets:
+  - gt_pos: 4.720369338989258, 5.691835403442383
+    name: Newspaper
+  - gt_pos: 0.38401031494140625, 4.647272109985352
+    name: Box
+  - gt_pos: 0.4734443128108978, 8.781647682189941
+    name: Spoon
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 343
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 10.25
+  shortest_path_targets_order: Spatula, Spoon, SprayBottle
+  start_heading: 270
+  start_position: 3.25, 8.25
+  targets:
+  - gt_pos: 2.204899311065674, 4.1301093101501465
+    name: Spatula
+  - gt_pos: 1.7448396682739258, 4.062042713165283
+    name: SprayBottle
+  - gt_pos: 2.0465946197509766, 4.95771598815918
+    name: Spoon
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 366
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 26.75
+  shortest_path_targets_order: Statue, Mug, AlarmClock
+  start_heading: 270
+  start_position: 5.25, 7.25
+  targets:
+  - gt_pos: 11.309234619140625, 4.978097915649414
+    name: AlarmClock
+  - gt_pos: 10.385398864746094, 3.779447555541992
+    name: Mug
+  - gt_pos: 6.50444221496582, 9.426899909973145
+    name: Statue
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 375
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 33.75
+  shortest_path_targets_order: Pillow, ToiletPaper, CoffeeMachine
+  start_heading: 90
+  start_position: 8.5, 9.75
+  targets:
+  - gt_pos: 0.11319217085838318, 11.328845977783203
+    name: ToiletPaper
+  - gt_pos: 9.81977653503418, 10.925766944885254
+    name: Pillow
+  - gt_pos: 4.3394951820373535, 5.432032585144043
+    name: CoffeeMachine
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 390
+  num_rooms: 7
+  num_targets: 3
+  shortest_path_length: 51.0
+  shortest_path_targets_order: Bread, Spatula, Faucet
+  start_heading: 90
+  start_position: 12.0, 6.0
+  targets:
+  - gt_pos: 0.3284618854522705, 7.436039447784424
+    name: Bread
+  - gt_pos: 1.6222354173660278, 7.436039447784424
+    name: Spatula
+  - gt_pos: 9.371979956626893, 7.349215893387794
+    name: Faucet
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 393
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 13.5
+  shortest_path_targets_order: Bread, Egg, AlarmClock
+  start_heading: 180
+  start_position: 2.0, 2.5
+  targets:
+  - gt_pos: 6.807093620300293, 3.1207046508789062
+    name: Egg
+  - gt_pos: 9.345215797424316, 4.700192451477051
+    name: AlarmClock
+  - gt_pos: 4.362286567687988, 1.9650399684906006
+    name: Bread
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 406
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 12.75
+  shortest_path_targets_order: Microwave, Egg, SoapBottle
+  start_heading: 270
+  start_position: 8.75, 6.25
+  targets:
+  - gt_pos: 0.32958438992500305, 2.22509765625
+    name: Microwave
+  - gt_pos: 0.7854750156402588, 1.9978344440460205
+    name: SoapBottle
+  - gt_pos: 0.7086242437362671, 2.152477502822876
+    name: Egg
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 427
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 24.0
+  shortest_path_targets_order: BaseballBat, PepperShaker, SoapBottle
+  start_heading: 270
+  start_position: 9.25, 6.25
+  targets:
+  - gt_pos: 9.82081127166748, 4.80358362197876
+    name: BaseballBat
+  - gt_pos: 0.6588468551635742, 9.573563575744629
+    name: SoapBottle
+  - gt_pos: 1.7250893115997314, 10.107015609741211
+    name: PepperShaker
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 434
+  num_rooms: 7
+  num_targets: 3
+  shortest_path_length: 13.75
+  shortest_path_targets_order: CreditCard, Fork, WineBottle
+  start_heading: 180
+  start_position: 3.75, 8.75
+  targets:
+  - gt_pos: 4.461548328399658, 5.768671989440918
+    name: WineBottle
+  - gt_pos: 9.241509437561035, 7.6307902336120605
+    name: CreditCard
+  - gt_pos: 9.546676635742188, 7.784311294555664
+    name: Fork
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 435
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 26.5
+  shortest_path_targets_order: Bowl, CreditCard, Pillow
+  start_heading: 180
+  start_position: 2.75, 2.75
+  targets:
+  - gt_pos: 7.646312713623047, 9.211241722106934
+    name: CreditCard
+  - gt_pos: 7.136834144592285, 0.8619071245193481
+    name: Bowl
+  - gt_pos: 1.46925950050354, 8.506525039672852
+    name: Pillow
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 452
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 31.25
+  shortest_path_targets_order: Pen, BasketBall, Faucet
+  start_heading: 0
+  start_position: 5.25, 7.0
+  targets:
+  - gt_pos: 0.19437742233276367, 0.6392460465431213
+    name: BasketBall
+  - gt_pos: 8.57161103093624, 0.39197995662689217
+    name: Faucet
+  - gt_pos: 0.6144572496414185, 6.210582733154297
+    name: Pen
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 454
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 24.0
+  shortest_path_targets_order: AlarmClock, Television, KeyChain
+  start_heading: 270
+  start_position: 7.5, 2.75
+  targets:
+  - gt_pos: 9.144126892089844, 4.681947708129883
+    name: KeyChain
+  - gt_pos: 0.8870151042938232, 0.5178273320198059
+    name: AlarmClock
+  - gt_pos: 0.6380753159523007, 0.3540745317935944
+    name: Television
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 464
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 30.25
+  shortest_path_targets_order: Pan, Plate, Candle
+  start_heading: 90
+  start_position: 3.5, 2.25
+  targets:
+  - gt_pos: 11.133174896240234, 4.415399551391602
+    name: Candle
+  - gt_pos: 4.656374931335449, 3.629490375518799
+    name: Pan
+  - gt_pos: 0.21368689835071564, 1.4174121618270874
+    name: Plate
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 470
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 25.5
+  shortest_path_targets_order: SoapBottle, CreditCard, Faucet
+  start_heading: 0
+  start_position: 9.5, 4.75
+  targets:
+  - gt_pos: 6.147611030936241, 11.362002594224192
+    name: Faucet
+  - gt_pos: 5.771143436431885, 5.86918830871582
+    name: SoapBottle
+  - gt_pos: 12.208946228027344, 5.205008506774902
+    name: CreditCard
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 471
+  num_rooms: 10
+  num_targets: 3
+  shortest_path_length: 29.25
+  shortest_path_targets_order: Pen, Plate, Microwave
+  start_heading: 90
+  start_position: 7.25, 2.0
+  targets:
+  - gt_pos: 1.2443950176239014, 8.519047737121582
+    name: Microwave
+  - gt_pos: 13.96286392211914, 10.89074993133545
+    name: Plate
+  - gt_pos: 9.521738052368164, 7.47792387008667
+    name: Pen
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 480
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 11.75
+  shortest_path_targets_order: SoapBottle, Potato, Plate
+  start_heading: 0
+  start_position: 7.25, 11.25
+  targets:
+  - gt_pos: 2.5492148399353027, 10.304649353027344
+    name: SoapBottle
+  - gt_pos: 2.5376687049865723, 11.448389053344727
+    name: Potato
+  - gt_pos: 3.3024303913116455, 11.36993408203125
+    name: Plate
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 487
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 15.25
+  shortest_path_targets_order: Candle, DishSponge, PepperShaker
+  start_heading: 90
+  start_position: 6.75, 7.0
+  targets:
+  - gt_pos: 4.10175895690918, 9.695645332336426
+    name: DishSponge
+  - gt_pos: 7.812357425689697, 7.758736610412598
+    name: Candle
+  - gt_pos: 3.261775493621826, 7.76584529876709
+    name: PepperShaker
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 500
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 39.0
+  shortest_path_targets_order: BaseballBat, Laptop, ToiletPaper
+  start_heading: 180
+  start_position: 6.25, 8.25
+  targets:
+  - gt_pos: 13.684749603271484, 5.239349842071533
+    name: BaseballBat
+  - gt_pos: 13.40392780303955, 11.63394546508789
+    name: Laptop
+  - gt_pos: 9.669974327087402, 5.834174633026123
+    name: ToiletPaper
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 504
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 31.5
+  shortest_path_targets_order: Candle, KeyChain, Ladle
+  start_heading: 90
+  start_position: 10.25, 8.5
+  targets:
+  - gt_pos: 0.5347228050231934, 3.538386583328247
+    name: KeyChain
+  - gt_pos: 5.000380992889404, 7.417130470275879
+    name: Ladle
+  - gt_pos: 8.75268268585205, 6.477910995483398
+    name: Candle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 505
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 8.75
+  shortest_path_targets_order: PaperTowelRoll, Toaster, Spoon
+  start_heading: 270
+  start_position: 4.25, 6.75
+  targets:
+  - gt_pos: 12.143260955810547, 5.345399856567383
+    name: Spoon
+  - gt_pos: 12.112469673156738, 6.110546588897705
+    name: Toaster
+  - gt_pos: 10.070530891418457, 6.782887935638428
+    name: PaperTowelRoll
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 506
+  num_rooms: 7
+  num_targets: 3
+  shortest_path_length: 28.5
+  shortest_path_targets_order: WineBottle, Ladle, Faucet
+  start_heading: 90
+  start_position: 5.25, 6.5
+  targets:
+  - gt_pos: 10.087020043373107, 0.1652158933877944
+    name: Faucet
+  - gt_pos: 8.579659461975098, 8.909558296203613
+    name: WineBottle
+  - gt_pos: 9.606715202331543, 4.989019393920898
+    name: Ladle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 511
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 21.5
+  shortest_path_targets_order: Spoon, Newspaper, SprayBottle
+  start_heading: 90
+  start_position: 6.5, 4.5
+  targets:
+  - gt_pos: 7.948518753051758, 0.6765084266662598
+    name: Newspaper
+  - gt_pos: 8.389486312866211, 7.752399444580078
+    name: Spoon
+  - gt_pos: 4.826302528381348, 5.9914374351501465
+    name: SprayBottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 512
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 25.0
+  shortest_path_targets_order: Watch, AlarmClock, SoapBottle
+  start_heading: 270
+  start_position: 7.0, 5.75
+  targets:
+  - gt_pos: 0.7894190549850464, 1.1980814933776855
+    name: AlarmClock
+  - gt_pos: 5.961153507232666, 4.439652919769287
+    name: Watch
+  - gt_pos: 1.549312710762024, 7.831910133361816
+    name: SoapBottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 514
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 17.25
+  shortest_path_targets_order: Mug, Lettuce, CoffeeMachine
+  start_heading: 90
+  start_position: 8.0, 9.5
+  targets:
+  - gt_pos: 6.240674018859863, 9.331459045410156
+    name: Mug
+  - gt_pos: 0.4064602851867676, 2.017554998397827
+    name: Lettuce
+  - gt_pos: 0.4851832389831543, 1.6501717567443848
+    name: CoffeeMachine
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 522
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 29.5
+  shortest_path_targets_order: Faucet, Box, HousePlant
+  start_heading: 90
+  start_position: 7.25, 1.5
+  targets:
+  - gt_pos: 7.10649299621582, 9.045510292053223
+    name: Box
+  - gt_pos: 7.028979956626891, 0.15738896906375877
+    name: Faucet
+  - gt_pos: 2.7597837448120117, 1.108147382736206
+    name: HousePlant
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 529
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 24.0
+  shortest_path_targets_order: DishSponge, Plate, Pillow
+  start_heading: 180
+  start_position: 5.5, 5.5
+  targets:
+  - gt_pos: 0.5562562942504883, 2.6714632511138916
+    name: Pillow
+  - gt_pos: 6.409584999084473, 2.531381607055664
+    name: DishSponge
+  - gt_pos: 9.665199279785156, 7.164531707763672
+    name: Plate
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 539
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 24.75
+  shortest_path_targets_order: Egg, Mug, AlarmClock
+  start_heading: 270
+  start_position: 6.25, 4.5
+  targets:
+  - gt_pos: 12.491620063781738, 6.66075325012207
+    name: AlarmClock
+  - gt_pos: 5.303346633911133, 1.1700708866119385
+    name: Egg
+  - gt_pos: 1.160163164138794, 4.150935173034668
+    name: Mug
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 542
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 18.0
+  shortest_path_targets_order: Mug, Pan, Faucet
+  start_heading: 0
+  start_position: 6.25, 6.75
+  targets:
+  - gt_pos: 6.932742118835449, 4.054553031921387
+    name: Mug
+  - gt_pos: 5.202784106612206, 0.39197995662689217
+    name: Faucet
+  - gt_pos: 6.484664440155029, 3.875286817550659
+    name: Pan
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 559
+  num_rooms: 6
+  num_targets: 3
+  shortest_path_length: 43.0
+  shortest_path_targets_order: BasketBall, Candle, Box
+  start_heading: 90
+  start_position: 5.5, 3.25
+  targets:
+  - gt_pos: 0.4199569821357727, 0.994936466217041
+    name: BasketBall
+  - gt_pos: 5.646640777587891, 11.366137504577637
+    name: Candle
+  - gt_pos: 6.118352890014648, 14.197314262390137
+    name: Box
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 560
+  num_rooms: 10
+  num_targets: 3
+  shortest_path_length: 49.0
+  shortest_path_targets_order: SoapBar, TennisRacket, SaltShaker
+  start_heading: 90
+  start_position: 11.25, 9.75
+  targets:
+  - gt_pos: 9.099003791809082, 5.4892964363098145
+    name: SaltShaker
+  - gt_pos: 9.822192192077637, 15.240972518920898
+    name: SoapBar
+  - gt_pos: 12.551338195800781, 4.646416664123535
+    name: TennisRacket
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 564
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 22.25
+  shortest_path_targets_order: Box, CellPhone, Faucet
+  start_heading: 0
+  start_position: 3.5, 4.5
+  targets:
+  - gt_pos: 8.861010551452637, 6.089720726013184
+    name: Box
+  - gt_pos: 9.341022491455078, 7.22060489654541
+    name: CellPhone
+  - gt_pos: 7.96938896906376, 10.23189257444233
+    name: Faucet
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 579
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 24.25
+  shortest_path_targets_order: Toaster, CreditCard, Faucet
+  start_heading: 90
+  start_position: 4.25, 5.75
+  targets:
+  - gt_pos: 7.724092483520508, 7.611908435821533
+    name: Toaster
+  - gt_pos: 1.6539028882980347, 0.32116806507110596
+    name: CreditCard
+  - gt_pos: 6.332555082831115, 5.076611030936241
+    name: Faucet
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 584
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 28.25
+  shortest_path_targets_order: PepperShaker, Bread, Television
+  start_heading: 90
+  start_position: 9.75, 1.75
+  targets:
+  - gt_pos: 7.080016136169434, 5.030037879943848
+    name: PepperShaker
+  - gt_pos: 12.477925468206406, 6.525482255935669
+    name: Television
+  - gt_pos: 1.2363178730010986, 4.924577236175537
+    name: Bread
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 593
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 32.5
+  shortest_path_targets_order: Cup, SaltShaker, ToiletPaper
+  start_heading: 90
+  start_position: 10.0, 9.25
+  targets:
+  - gt_pos: 6.242686748504639, 0.20509201288223267
+    name: ToiletPaper
+  - gt_pos: 11.245128631591797, 12.311546325683594
+    name: Cup
+  - gt_pos: 12.161083221435547, 12.542960166931152
+    name: SaltShaker
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 613
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 12.5
+  shortest_path_targets_order: Ladle, PepperShaker, Apple
+  start_heading: 0
+  start_position: 7.25, 6.5
+  targets:
+  - gt_pos: 1.1821075677871704, 6.486746788024902
+    name: Ladle
+  - gt_pos: 1.019028902053833, 8.596589088439941
+    name: PepperShaker
+  - gt_pos: 0.32915404438972473, 8.819265365600586
+    name: Apple
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 625
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 8.5
+  shortest_path_targets_order: WineBottle, Spatula, PepperShaker
+  start_heading: 180
+  start_position: 6.75, 4.75
+  targets:
+  - gt_pos: 8.104040145874023, 0.25668877363204956
+    name: PepperShaker
+  - gt_pos: 5.866217613220215, 2.371093273162842
+    name: WineBottle
+  - gt_pos: 7.798872947692871, 0.48216554522514343
+    name: Spatula
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 640
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 8.5
+  shortest_path_targets_order: Ladle, Cup, Kettle
+  start_heading: 270
+  start_position: 8.0, 3.25
+  targets:
+  - gt_pos: 7.397961616516113, 4.097239017486572
+    name: Ladle
+  - gt_pos: 4.442937850952148, 6.599452972412109
+    name: Kettle
+  - gt_pos: 6.42617130279541, 5.763925552368164
+    name: Cup
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 669
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 25.75
+  shortest_path_targets_order: Spoon, Toaster, ToiletPaper
+  start_heading: 0
+  start_position: 7.75, 2.0
+  targets:
+  - gt_pos: 0.22815485298633575, 6.476191997528076
+    name: ToiletPaper
+  - gt_pos: 12.392804145812988, 0.7719098329544067
+    name: Spoon
+  - gt_pos: 10.871734619140625, 0.2688177227973938
+    name: Toaster
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 680
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 21.0
+  shortest_path_targets_order: DeskLamp, Bowl, Watch
+  start_heading: 90
+  start_position: 3.0, 6.5
+  targets:
+  - gt_pos: 1.528890609741211, 7.135563373565674
+    name: DeskLamp
+  - gt_pos: 7.901716709136963, 2.939005136489868
+    name: Watch
+  - gt_pos: 10.783376693725586, 6.897271156311035
+    name: Bowl
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 682
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 29.25
+  shortest_path_targets_order: Potato, Spoon, Vase
+  start_heading: 270
+  start_position: 9.0, 9.25
+  targets:
+  - gt_pos: 0.48904335498809814, 8.027194023132324
+    name: Potato
+  - gt_pos: 0.17890232801437378, 8.348108291625977
+    name: Spoon
+  - gt_pos: 1.9151909351348877, 1.3375341892242432
+    name: Vase
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 700
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 20.5
+  shortest_path_targets_order: CD, RemoteControl, Television
+  start_heading: 90
+  start_position: 8.75, 7.25
+  targets:
+  - gt_pos: 11.374618530273438, 5.903297424316406
+    name: CD
+  - gt_pos: 9.274097442626953, 2.661454677581787
+    name: RemoteControl
+  - gt_pos: 7.731925468206406, 2.6600753159523007
+    name: Television
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 717
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 42.5
+  shortest_path_targets_order: Pan, CD, BaseballBat
+  start_heading: 180
+  start_position: 2.5, 6.0
+  targets:
+  - gt_pos: 13.915255546569824, 4.285160064697266
+    name: CD
+  - gt_pos: 12.844490051269531, 3.7749598026275635
+    name: Pan
+  - gt_pos: 5.383563041687012, 6.574380874633789
+    name: BaseballBat
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 725
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 29.5
+  shortest_path_targets_order: Pillow, Kettle, Laptop
+  start_heading: 90
+  start_position: 7.5, 6.25
+  targets:
+  - gt_pos: 8.030244827270508, 8.14637565612793
+    name: Laptop
+  - gt_pos: 1.9327244758605957, 12.635948181152344
+    name: Kettle
+  - gt_pos: 2.9227531628608703, 2.3366976470947267
+    name: Pillow
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 727
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 32.5
+  shortest_path_targets_order: ToiletPaper, Pencil, Pot
+  start_heading: 270
+  start_position: 2.25, 8.25
+  targets:
+  - gt_pos: 3.026871681213379, 2.0867326259613037
+    name: Pot
+  - gt_pos: 9.003680229187012, 7.974883556365967
+    name: Pencil
+  - gt_pos: 0.1863422691822052, 10.898399353027344
+    name: ToiletPaper
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 730
+  num_rooms: 6
+  num_targets: 3
+  shortest_path_length: 32.75
+  shortest_path_targets_order: SprayBottle, PaperTowelRoll, CD
+  start_heading: 0
+  start_position: 1.0, 4.5
+  targets:
+  - gt_pos: 9.889957427978516, 10.411735534667969
+    name: SprayBottle
+  - gt_pos: 9.876190185546875, 2.270745277404785
+    name: CD
+  - gt_pos: 9.741140365600586, 11.014752388000488
+    name: PaperTowelRoll
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 731
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 19.5
+  shortest_path_targets_order: Book, Statue, Cup
+  start_heading: 90
+  start_position: 10.0, 7.5
+  targets:
+  - gt_pos: 5.994818210601807, 3.5411934852600098
+    name: Cup
+  - gt_pos: 5.439769268035889, 3.231370449066162
+    name: Book
+  - gt_pos: 5.709936141967773, 3.6961050033569336
+    name: Statue
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 733
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 36.75
+  shortest_path_targets_order: Bread, Box, ToiletPaper
+  start_heading: 270
+  start_position: 7.25, 3.5
+  targets:
+  - gt_pos: 8.939346313476562, 14.155466079711914
+    name: Box
+  - gt_pos: 0.239926278591156, 8.606351852416992
+    name: ToiletPaper
+  - gt_pos: 0.8630253076553345, 5.1177568435668945
+    name: Bread
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 750
+  num_rooms: 8
+  num_targets: 3
+  shortest_path_length: 41.75
+  shortest_path_targets_order: Spatula, SaltShaker, Spoon
+  start_heading: 180
+  start_position: 12.75, 22.75
+  targets:
+  - gt_pos: 4.439000129699707, 2.7660017013549805
+    name: Spoon
+  - gt_pos: 4.11958122253418, 2.844719886779785
+    name: SaltShaker
+  - gt_pos: 3.4358396530151367, 2.9223663806915283
+    name: Spatula
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 755
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 21.0
+  shortest_path_targets_order: TeddyBear, KeyChain, ToiletPaper
+  start_heading: 180
+  start_position: 5.25, 5.25
+  targets:
+  - gt_pos: 1.2740046977996826, 4.749455451965332
+    name: TeddyBear
+  - gt_pos: 10.732032775878906, 14.749149322509766
+    name: ToiletPaper
+  - gt_pos: 5.91187858581543, 6.968466758728027
+    name: KeyChain
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 761
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 11.0
+  shortest_path_targets_order: PaperTowelRoll, SprayBottle, Vase
+  start_heading: 270
+  start_position: 1.0, 3.75
+  targets:
+  - gt_pos: 2.160719871520996, 8.231071472167969
+    name: SprayBottle
+  - gt_pos: 3.885037660598755, 8.257600784301758
+    name: Vase
+  - gt_pos: 0.4963091313838959, 7.549283027648926
+    name: PaperTowelRoll
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 766
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 34.75
+  shortest_path_targets_order: Faucet, Pillow, HousePlant
+  start_heading: 270
+  start_position: 7.25, 5.25
+  targets:
+  - gt_pos: 0.15738896906375877, 4.410979956626893
+    name: Faucet
+  - gt_pos: 9.700180053710938, 2.565368175506592
+    name: Pillow
+  - gt_pos: 0.2236921638250351, 6.466935157775879
+    name: HousePlant
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 775
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 23.0
+  shortest_path_targets_order: BasketBall, SprayBottle, Pencil
+  start_heading: 90
+  start_position: 6.25, 4.0
+  targets:
+  - gt_pos: 10.247135162353516, 10.316725730895996
+    name: SprayBottle
+  - gt_pos: 9.175749778747559, 2.9688148498535156
+    name: BasketBall
+  - gt_pos: 4.046743392944336, 13.354130744934082
+    name: Pencil
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 781
+  num_rooms: 7
+  num_targets: 3
+  shortest_path_length: 35.5
+  shortest_path_targets_order: AlarmClock, Apple, ToiletPaper
+  start_heading: 180
+  start_position: 3.5, 5.0
+  targets:
+  - gt_pos: 1.071103572845459, 11.170330047607422
+    name: AlarmClock
+  - gt_pos: 6.170871257781982, 7.804825782775879
+    name: ToiletPaper
+  - gt_pos: 10.698140144348145, 7.431851387023926
+    name: Apple
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 798
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 17.75
+  shortest_path_targets_order: SoapBottle, Laptop, Bowl
+  start_heading: 0
+  start_position: 2.5, 3.25
+  targets:
+  - gt_pos: 8.29797649383545, 2.0067808628082275
+    name: Laptop
+  - gt_pos: 1.6764311790466309, 1.2422423362731934
+    name: SoapBottle
+  - gt_pos: 3.751133680343628, 5.6384406089782715
+    name: Bowl
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 819
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 23.75
+  shortest_path_targets_order: Book, Pen, Cup
+  start_heading: 270
+  start_position: 9.25, 5.25
+  targets:
+  - gt_pos: 4.434042930603027, 1.0217361450195312
+    name: Pen
+  - gt_pos: 0.7068169116973877, 0.9370110034942627
+    name: Cup
+  - gt_pos: 4.3374834060668945, 0.4546990990638733
+    name: Book
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 824
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 33.0
+  shortest_path_targets_order: CreditCard, Pillow, Toaster
+  start_heading: 90
+  start_position: 0.25, 3.25
+  targets:
+  - gt_pos: 7.183290004730225, 2.1318154335021973
+    name: Toaster
+  - gt_pos: 2.4209136962890625, 8.900741577148438
+    name: Pillow
+  - gt_pos: 0.10248282551765442, 6.110530376434326
+    name: CreditCard
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 826
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 29.75
+  shortest_path_targets_order: TeddyBear, Faucet, Tomato
+  start_heading: 90
+  start_position: 8.5, 6.25
+  targets:
+  - gt_pos: 4.727860927581787, 14.793550491333008
+    name: Tomato
+  - gt_pos: 9.612874984741211, 2.6443467140197754
+    name: TeddyBear
+  - gt_pos: 8.517645783888588, 8.478784106612206
+    name: Faucet
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 835
+  num_rooms: 6
+  num_targets: 3
+  shortest_path_length: 36.0
+  shortest_path_targets_order: TissueBox, DeskLamp, Pan
+  start_heading: 90
+  start_position: 4.5, 10.75
+  targets:
+  - gt_pos: 0.6338558197021484, 7.859044075012207
+    name: TissueBox
+  - gt_pos: 11.121234893798828, 10.229037284851074
+    name: Pan
+  - gt_pos: 7.475729942321777, 2.1641831398010254
+    name: DeskLamp
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 836
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 33.0
+  shortest_path_targets_order: DishSponge, Pan, BaseballBat
+  start_heading: 270
+  start_position: 7.5, 7.0
+  targets:
+  - gt_pos: 13.280167579650879, 4.496407985687256
+    name: BaseballBat
+  - gt_pos: 4.861056327819824, 6.8220415115356445
+    name: DishSponge
+  - gt_pos: 2.5498785972595215, 4.448219299316406
+    name: Pan
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 845
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 25.0
+  shortest_path_targets_order: KeyChain, PepperShaker, Potato
+  start_heading: 0
+  start_position: 6.25, 4.0
+  targets:
+  - gt_pos: 7.957706928253174, 7.663570880889893
+    name: PepperShaker
+  - gt_pos: 2.041635751724243, 0.44201838970184326
+    name: KeyChain
+  - gt_pos: 10.424013137817383, 9.866241455078125
+    name: Potato
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 850
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 17.75
+  shortest_path_targets_order: Book, BasketBall, Pot
+  start_heading: 0
+  start_position: 1.0, 3.0
+  targets:
+  - gt_pos: 3.386873245239258, 0.3211669921875
+    name: BasketBall
+  - gt_pos: 0.43617376685142517, 1.4655638933181763
+    name: Book
+  - gt_pos: 3.3098106384277344, 8.472846984863281
+    name: Pot
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 852
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 10.75
+  shortest_path_targets_order: BasketBall, Statue, RemoteControl
+  start_heading: 0
+  start_position: 8.75, 4.75
+  targets:
+  - gt_pos: 4.91803503036499, 9.576786041259766
+    name: Statue
+  - gt_pos: 9.309741973876953, 9.387739181518555
+    name: BasketBall
+  - gt_pos: 5.039702892303467, 9.7047700881958
+    name: RemoteControl
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 859
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 13.75
+  shortest_path_targets_order: Spoon, Book, BasketBall
+  start_heading: 270
+  start_position: 2.0, 2.0
+  targets:
+  - gt_pos: 7.848463535308838, 7.471063613891602
+    name: BasketBall
+  - gt_pos: 3.9269497394561768, 8.278057098388672
+    name: Book
+  - gt_pos: 2.9353713989257812, 2.709738254547119
+    name: Spoon
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 883
+  num_rooms: 6
+  num_targets: 3
+  shortest_path_length: 25.0
+  shortest_path_targets_order: TeddyBear, Pencil, Potato
+  start_heading: 90
+  start_position: 12.75, 7.75
+  targets:
+  - gt_pos: 5.632813453674316, 7.316093444824219
+    name: Pencil
+  - gt_pos: 2.7164015769958496, 2.398231029510498
+    name: TeddyBear
+  - gt_pos: 4.925302505493164, 12.163636207580566
+    name: Potato
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 891
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 6.0
+  shortest_path_targets_order: Fork, Bread, SaltShaker
+  start_heading: 270
+  start_position: 1.5, 3.75
+  targets:
+  - gt_pos: 0.7854368686676025, 5.420806884765625
+    name: Fork
+  - gt_pos: 0.7483070492744446, 9.429180145263672
+    name: SaltShaker
+  - gt_pos: 0.7854368686676025, 5.2655134201049805
+    name: Bread
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 892
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 19.5
+  shortest_path_targets_order: Spoon, SoapBottle, Newspaper
+  start_heading: 90
+  start_position: 5.25, 5.0
+  targets:
+  - gt_pos: 6.745450973510742, 2.1475698947906494
+    name: Spoon
+  - gt_pos: 0.25860893726348877, 0.36037737131118774
+    name: Newspaper
+  - gt_pos: 6.746522903442383, 2.466989517211914
+    name: SoapBottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 901
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 24.25
+  shortest_path_targets_order: Vase, ToiletPaper, Faucet
+  start_heading: 0
+  start_position: 11.0, 5.75
+  targets:
+  - gt_pos: 5.559660911560059, 9.212690353393555
+    name: Vase
+  - gt_pos: 6.500241279602051, 2.01135516166687
+    name: ToiletPaper
+  - gt_pos: 0.15738896906375877, 2.049979956626892
+    name: Faucet
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 904
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 28.75
+  shortest_path_targets_order: SprayBottle, Vase, ToiletPaper
+  start_heading: 0
+  start_position: 9.75, 3.5
+  targets:
+  - gt_pos: 10.734100341796875, 6.206151962280273
+    name: Vase
+  - gt_pos: 0.3520289659500122, 8.879640579223633
+    name: ToiletPaper
+  - gt_pos: 7.443791389465332, 0.13745597004890442
+    name: SprayBottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 905
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 18.75
+  shortest_path_targets_order: DishSponge, SoapBottle, HousePlant
+  start_heading: 180
+  start_position: 1.25, 5.75
+  targets:
+  - gt_pos: 0.10108375549316406, 1.7921823263168335
+    name: DishSponge
+  - gt_pos: 7.666980743408203, 6.224480628967285
+    name: HousePlant
+  - gt_pos: 2.6907765865325928, 0.861945390701294
+    name: SoapBottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 907
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 6.5
+  shortest_path_targets_order: WineBottle, CellPhone, Pen
+  start_heading: 90
+  start_position: 2.5, 7.25
+  targets:
+  - gt_pos: 2.4596786499023438, 9.897478103637695
+    name: WineBottle
+  - gt_pos: 1.8404515981674194, 10.451549530029297
+    name: CellPhone
+  - gt_pos: 1.8465123176574707, 10.728584289550781
+    name: Pen
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 910
+  num_rooms: 8
+  num_targets: 3
+  shortest_path_length: 28.25
+  shortest_path_targets_order: Tomato, Fork, Bottle
+  start_heading: 0
+  start_position: 7.25, 9.5
+  targets:
+  - gt_pos: 1.5475471019744873, 17.394344329833984
+    name: Tomato
+  - gt_pos: 0.0978122353553772, 18.084369659423828
+    name: Bottle
+  - gt_pos: 0.4062681794166565, 18.23772430419922
+    name: Fork
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 925
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 21.75
+  shortest_path_targets_order: TennisRacket, Bottle, SaltShaker
+  start_heading: 180
+  start_position: 2.25, 3.75
+  targets:
+  - gt_pos: 0.33213815093040466, 6.927506923675537
+    name: TennisRacket
+  - gt_pos: 8.925117492675781, 2.596619129180908
+    name: SaltShaker
+  - gt_pos: 6.862299919128418, 3.5861706733703613
+    name: Bottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 949
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 29.5
+  shortest_path_targets_order: ToiletPaper, Mug, CoffeeMachine
+  start_heading: 180
+  start_position: 2.0, 10.75
+  targets:
+  - gt_pos: 0.653805136680603, 9.541993141174316
+    name: Mug
+  - gt_pos: 1.1519635915756226, 0.2554769515991211
+    name: CoffeeMachine
+  - gt_pos: 0.28575724363327026, 11.881540298461914
+    name: ToiletPaper
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 954
+  num_rooms: 3
+  num_targets: 3
+  shortest_path_length: 15.25
+  shortest_path_targets_order: SoapBottle, Kettle, Mug
+  start_heading: 0
+  start_position: 4.25, 4.25
+  targets:
+  - gt_pos: 9.44555950164795, 5.374600410461426
+    name: Mug
+  - gt_pos: 4.366269111633301, 0.34391719102859497
+    name: SoapBottle
+  - gt_pos: 4.4400177001953125, 0.4837823212146759
+    name: Kettle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 967
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 14.5
+  shortest_path_targets_order: CreditCard, KeyChain, Fork
+  start_heading: 270
+  start_position: 7.0, 9.75
+  targets:
+  - gt_pos: 5.78816032409668, 12.272101402282715
+    name: CreditCard
+  - gt_pos: 5.017335891723633, 3.7549283504486084
+    name: Fork
+  - gt_pos: 5.910915851593018, 12.187910079956055
+    name: KeyChain
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 987
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 13.25
+  shortest_path_targets_order: Statue, Toaster, Spatula
+  start_heading: 90
+  start_position: 9.25, 5.0
+  targets:
+  - gt_pos: 4.723745346069336, 8.335331916809082
+    name: Spatula
+  - gt_pos: 4.711287975311279, 8.030163764953613
+    name: Toaster
+  - gt_pos: 5.491501808166504, 7.980907917022705
+    name: Statue
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 988
+  num_rooms: 8
+  num_targets: 3
+  shortest_path_length: 33.5
+  shortest_path_targets_order: SoapBottle, SaltShaker, Pan
+  start_heading: 180
+  start_position: 1.25, 12.25
+  targets:
+  - gt_pos: 8.692362785339355, 4.926133155822754
+    name: Pan
+  - gt_pos: 9.35153579711914, 11.595296859741211
+    name: SaltShaker
+  - gt_pos: 1.52390718460083, 10.468311309814453
+    name: SoapBottle
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 992
+  num_rooms: 5
+  num_targets: 3
+  shortest_path_length: 52.5
+  shortest_path_targets_order: PaperTowelRoll, Faucet, KeyChain
+  start_heading: 180
+  start_position: 0.5, 12.0
+  targets:
+  - gt_pos: 10.900979956626893, 4.369215893387794
+    name: Faucet
+  - gt_pos: 0.32763251662254333, 9.589850425720215
+    name: PaperTowelRoll
+  - gt_pos: 12.265043258666992, 3.66489839553833
+    name: KeyChain
+- data_type: test
+  house_dataset: procthor-10k
+  house_idx: 998
+  num_rooms: 4
+  num_targets: 3
+  shortest_path_length: 22.75
+  shortest_path_targets_order: Fork, PepperShaker, CD
+  start_heading: 90
+  start_position: 0.75, 10.5
+  targets:
+  - gt_pos: 8.83745288848877, 14.902073860168457
+    name: Fork
+  - gt_pos: 8.157218933105469, 12.91301441192627
+    name: PepperShaker
+  - gt_pos: 10.675955772399902, 3.9645557403564453
+    name: CD
