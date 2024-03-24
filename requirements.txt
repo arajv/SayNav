@@ -1,0 +1,7 @@
+prior
+ai2thor
+openai
+langchain
+python-astar
+chardet
+scipy
