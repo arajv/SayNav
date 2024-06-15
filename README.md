@@ -36,3 +36,12 @@ cd habitat-lab
 pip install -e habitat-lab
 pip install -e habitat-baselines
 ```
+
+## Running the pipeline
+We provide a run script which runs the typical SayNav pipeline on a house instance from ProcTHOR dataset with 3 random objects.
+You will need to add your OpenAI API key in run/test.py.
+```
+export PYTHONPATH={Path to Repository}/src/cython
+cd {Path to Repository}/run
+python test.py
+```
