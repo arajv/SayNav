@@ -8,7 +8,7 @@ We present SayNav, a new approach that leverages human knowledge from Large Lang
 Visit our [Project Page](https://www.sri.com/ics/computer-vision/saynav-grounding-large-language-models-for-dynamic-planning-to-navigation-in-new-environments/) to look at various demonstration videos.
 
 ## Citing SayNav
-If you find our work useful, please cite our [paper](https://arxiv.org/abs/2309.04077).
+If you find our work useful, please cite our [paper](https://ojs.aaai.org/index.php/ICAPS/article/view/31506/33666).
 ```
 @inproceedings{arajv2024Saynav,
   title     =     {SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments},
